@@ -1,0 +1,1 @@
+Fênix Drive: Seu SSD/HD falhou e não inicia mais o sistema? Este utilitário simples e poderoso, construído em Python, permite que você dê uma nova vida a discos corrompidos. Ele limpa todas as partições residuais de baixo nível, restaurando a unidade para uso imediato. O renascimento dos seus drives começa aqui!
